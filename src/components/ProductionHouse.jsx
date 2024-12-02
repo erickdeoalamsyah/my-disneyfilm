@@ -6,10 +6,10 @@ import pixar from "../assets/pixar.png";
 import starWar from "../assets/starwar.png";
 
 import starWarV from "../Videos/star-wars.mp4";
-import disneyV from "../videos/disney.mp4";
-import marvelV from "../videos/marvel.mp4";
-import nationalGV from "../videos/national-geographic.mp4";
-import pixarV from "../videos/pixar.mp4";
+import disneyV from "../Videos/disney.mp4";
+import marvelV from "../Videos/marvel.mp4";
+import nationalGV from "../Videos/national-geographic.mp4";
+import pixarV from "../Videos/pixar.mp4";
 
 export const ProductionHouse = () => {
   const productionHouseList = [
